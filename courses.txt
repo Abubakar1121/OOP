@@ -1,0 +1,4 @@
+course_code,course_name,semester,teacher
+CS101,First Course,Fall22,Dr. ABC
+CS102,Second Course,Fall22,Dr. ABC
+CS103,Third Course,Fall22,Dr. ABC
